@@ -1,6 +1,6 @@
 {
   "action": "prank", 
-  "wallpaper": "https://example.com/funny.jpg",
+  "wallpaper": "https://th.bing.com/th/id/OIP.iCEhzk5P00bExZDOmnAJDAHaEo?cb=iwc2&rs=1&pid=ImgDetMain",
   "open_website": "",
   "set_volume": true,
   "notepad": false,
