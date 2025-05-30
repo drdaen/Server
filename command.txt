@@ -1,3 +1,9 @@
-Run: True
-Reverse: False
-Command: Wallpaper
+{
+  "action": "prank", 
+  "wallpaper": "https://example.com/funny.jpg",
+  "open_website": "https://youtu.be/JYEaAehLoQs",
+  "set_volume": true,
+  "notepad": false,
+  "random_mouse": true,
+  "reverse": false
+}
