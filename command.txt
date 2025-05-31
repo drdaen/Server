@@ -6,4 +6,6 @@
   "notepad": false,
   "random_mouse": false,
   "reverse": false
+  "test": true,
+  "debug": true
 }
