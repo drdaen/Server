@@ -1,11 +1,11 @@
 {
   "action": "prank", 
   "wallpaper": "https://th.bing.com/th/id/OIP.iCEhzk5P00bExZDOmnAJDAHaEo?cb=iwc2&rs=1&pid=ImgDetMain",
-  "open_website": "",
+  "open_website": "https://google.com",
   "set_volume": true,
   "notepad": false,
   "random_mouse": false,
-  "reverse": false
+  "reverse": false,
   "test": true,
   "debug": true
 }
