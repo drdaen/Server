@@ -7,10 +7,10 @@
   "notepad": false,
   "random_mouse": false,
   "random_mouse_move": true,
-  "mouse_moves": 2
-  "mouse_interval": 10
+  "mouse_moves": 2,
+  "mouse_interval": 10,
   "interval": 60,
-  "lock_screen": true
+  "lock_screen": true,
   "run_once": false,
   "autostart": true,
   "debug": true
