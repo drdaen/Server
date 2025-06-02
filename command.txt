@@ -2,7 +2,7 @@
   "action": "prank", 
   "wallpaper": "https://th.bing.com/th/id/R.4b3775f687c5841adaca4e0796372e68?rik=NKkykehDTqvDhw&riu=http%3a%2f%2fwallsdesk.com%2fwp-content%2fuploads%2f2017%2f01%2fCow-HD-Wallpaper.jpg&ehk=tjBajlgqyJsv393Un6%2fCURr1YY%2fP9peBNDXgUdWJzsU%3d&risl=1&pid=ImgRaw&r=0",
   "open_website": "https://google.com",
-  "set_volume": false,
+  "set_volume": true,
   "volume": 30,
   "notepad": false,
   "random_mouse": false,
@@ -13,7 +13,7 @@
   "lock_screen": false,
   "run_once": true,
   "move_exe": false,
-  "move_py": true,
+  "move_py": false,
   "autostart": true,
-  "debug": true
+  "debug": false
 }
