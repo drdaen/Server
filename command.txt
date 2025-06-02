@@ -15,5 +15,5 @@
   "move_exe": false,
   "move_py": false,
   "autostart": true,
-  "debug": false
+  "debug": true
 }
