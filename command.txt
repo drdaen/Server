@@ -12,7 +12,7 @@
   "interval": 60,
   "lock_screen": false,
   "run_once": true,
-  "move_exe": false,
+  "move_exe": true,
   "move_py": false,
   "autostart": true,
   "debug": true
