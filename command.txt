@@ -11,7 +11,7 @@
   "mouse_interval": 10,
   "interval": 60,
   "lock_screen": false,
-  "run_once": false,
+  "run_once": true,
   "move_exe": false,
   "move_py": false,
   "autostart": false,
