@@ -3,7 +3,7 @@
   "wallpaper": "https://th.bing.com/th/id/R.4b3775f687c5841adaca4e0796372e68?rik=NKkykehDTqvDhw&riu=http%3a%2f%2fwallsdesk.com%2fwp-content%2fuploads%2f2017%2f01%2fCow-HD-Wallpaper.jpg&ehk=tjBajlgqyJsv393Un6%2fCURr1YY%2fP9peBNDXgUdWJzsU%3d&risl=1&pid=ImgRaw&r=0",
   "open_website": "https://google.com",
   "set_volume": true,
-  "volume": 34,
+  "volume": 36,
   "notepad": false,
   "random_mouse": false,
   "random_mouse_move": false,
