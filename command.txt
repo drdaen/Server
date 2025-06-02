@@ -12,6 +12,7 @@
   "interval": 60,
   "lock_screen": true,
   "run_once": false,
+  "move_exe": false,
   "autostart": true,
   "debug": true
 }
