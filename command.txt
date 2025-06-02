@@ -4,16 +4,16 @@
   "open_website": "https://google.com",
   "set_volume": true,
   "volume": 36,
-  "notepad": false,
+  "notepad": true,
   "random_mouse": false,
   "random_mouse_move": false,
   "mouse_moves": 2,
   "mouse_interval": 10,
   "interval": 60,
   "lock_screen": false,
-  "run_once": true,
-  "move_exe": true,
+  "run_once": false,
+  "move_exe": false,
   "move_py": false,
-  "autostart": true,
-  "debug": true
+  "autostart": false,
+  "debug": false
 }
