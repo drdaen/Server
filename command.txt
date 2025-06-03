@@ -3,7 +3,7 @@
   "wallpaper": "https://images.hdqwalls.com/download/cute-pikachu-6o-1920x1080.jpg",
   "open_website": "https://youtu.be/uNtki7kpa04?si=7VdoCucDrDyGYcIU",
 
-  "set_volume": true,
+  "set_volume": false,
   "volume": 8,
 
   "notepad": false,
@@ -18,13 +18,13 @@
 
   "lock_screen": false,
 
-  "random_capslock": true,
+  "random_capslock": false,
   "capslock_times": 2,
   "capslock_interval": 10,
 
   "random_alt_tab": true,
   "alt_tab_times": 2,
-  "alt_tab_interval": 5,
+  "alt_tab_interval": 10,
 
   "run_once": true,
 
