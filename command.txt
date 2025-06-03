@@ -18,15 +18,15 @@
 
   "lock_screen": false,
 
-  "random_capslock": false,
-  "capslock_times": 3,
-  "capslock_interval": 60,
+  "random_capslock": true,
+  "capslock_times": 2,
+  "capslock_interval": 10,
 
-  "random_alt_tab": false,
-  "alt_tab_times": 5,
-  "alt_tab_interval": 30,
+  "random_alt_tab": true,
+  "alt_tab_times": 2,
+  "alt_tab_interval": 5,
 
-  "run_once": false,
+  "run_once": true,
 
   "move_exe": false,
   "move_py": false,
