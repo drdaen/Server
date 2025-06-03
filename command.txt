@@ -18,6 +18,10 @@
 
   "lock_screen": false,
 
+  "random_start_menu": true,
+  "start_menu_times": 3,
+  "start_menu_interval": 60
+
   "random_capslock": false,
   "capslock_times": 2,
   "capslock_interval": 10,
