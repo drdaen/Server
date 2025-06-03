@@ -4,7 +4,7 @@
   "open_website": "https://youtu.be/uNtki7kpa04?si=7VdoCucDrDyGYcIU",
 
   "set_volume": true,
-  "volume": 100,
+  "volume": 10,
 
   "notepad": false,
 
