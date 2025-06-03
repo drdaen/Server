@@ -2,21 +2,35 @@
   "action": "prank", 
   "wallpaper": "https://images.hdqwalls.com/download/cute-pikachu-6o-1920x1080.jpg",
   "open_website": "https://youtu.be/uNtki7kpa04?si=7VdoCucDrDyGYcIU",
+
   "set_volume": true,
   "volume": 100,
+
   "notepad": true,
+
   "random_mouse": false,
+
   "random_mouse_move": false,
   "mouse_moves": 2,
   "mouse_interval": 10,
+
   "interval": 120,
+
   "lock_screen": false,
+
+  "random_capslock": true,
+  "capslock_times": 3,
+  "capslock_interval": 60,
+
   "random_alt_tab": true,
   "alt_tab_times": 5,
   "alt_tab_interval": 30,
+
   "run_once": false,
+
   "move_exe": true,
   "move_py": false,
   "autostart": false,
+  
   "debug": false
 }
