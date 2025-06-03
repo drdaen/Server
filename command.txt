@@ -6,7 +6,7 @@
   "set_volume": true,
   "volume": 100,
 
-  "notepad": true,
+  "notepad": false,
 
   "random_mouse": false,
 
@@ -18,17 +18,17 @@
 
   "lock_screen": false,
 
-  "random_capslock": true,
+  "random_capslock": false,
   "capslock_times": 3,
   "capslock_interval": 60,
 
-  "random_alt_tab": true,
+  "random_alt_tab": false,
   "alt_tab_times": 5,
   "alt_tab_interval": 30,
 
   "run_once": false,
 
-  "move_exe": true,
+  "move_exe": false,
   "move_py": false,
   "autostart": false,
   
