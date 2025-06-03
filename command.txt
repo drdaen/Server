@@ -7,6 +7,7 @@
   "volume": 8,
 
   "notepad": false,
+  "notepad_text": "If you shutdown, ALL FILES WILL BE DELETED"
 
   "random_mouse": false,
 
