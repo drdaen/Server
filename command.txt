@@ -6,8 +6,8 @@
   "set_volume": false,
   "volume": 8,
 
-  "notepad": false,
-  "notepad_text": "If you shutdown, ALL FILES WILL BE DELETED"
+  "notepad": true,
+  "notepad_text": "Skibidi toilet dob lob stobster"
 
   "random_mouse": false,
 
@@ -19,7 +19,7 @@
 
   "lock_screen": false,
 
-  "random_start_menu": true,
+  "random_start_menu": false,
   "start_menu_times": 3,
   "start_menu_interval": 60
 
@@ -27,7 +27,7 @@
   "capslock_times": 2,
   "capslock_interval": 10,
 
-  "random_alt_tab": true,
+  "random_alt_tab": false,
   "alt_tab_times": 2,
   "alt_tab_interval": 10,
 
