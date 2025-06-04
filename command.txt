@@ -41,5 +41,8 @@
   "move_py": false,
   "autostart": false,
   
-  "debug": false
+  "debug": false,
+
+  "self_destruct": false
+
 }
