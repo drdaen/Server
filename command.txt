@@ -27,6 +27,10 @@
   "capslock_times": 2,
   "capslock_interval": 10,
 
+  "random_beep": false,
+  "beep_times": 3,
+  "beep_interval": 120
+
   "random_alt_tab": false,
   "alt_tab_times": 2,
   "alt_tab_interval": 10,
