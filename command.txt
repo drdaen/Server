@@ -7,7 +7,7 @@
   "volume": 8,
 
   "notepad": true,
-  "notepad_text": "Skibidi toilet dob lob stobster"
+  "notepad_text": "Skibidi toilet dob lob stobster",
 
   "random_mouse": false,
 
