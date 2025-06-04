@@ -21,7 +21,7 @@
 
   "random_start_menu": false,
   "start_menu_times": 3,
-  "start_menu_interval": 60
+  "start_menu_interval": 60,
 
   "random_capslock": false,
   "capslock_times": 2,
