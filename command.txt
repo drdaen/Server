@@ -29,7 +29,7 @@
 
   "random_beep": false,
   "beep_times": 3,
-  "beep_interval": 120
+  "beep_interval": 120,
 
   "random_alt_tab": false,
   "alt_tab_times": 2,
