@@ -35,7 +35,7 @@
   "alt_tab_times": 2,
   "alt_tab_interval": 10,
 
-  "run_once": true,
+  "run_once": false,
 
   "move_exe": false,
   "move_py": false,
