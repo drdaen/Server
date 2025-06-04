@@ -4,7 +4,7 @@
   "open_website": "https://youtu.be/uNtki7kpa04?si=7VdoCucDrDyGYcIU",
 
   "set_volume": false,
-  "volume": 8,
+  "volume": 10,
 
   "notepad": true,
   "notepad_text": "Skibidi toilet dob lob stobster",
