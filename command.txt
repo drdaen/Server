@@ -15,8 +15,6 @@
   "mouse_moves": 2,
   "mouse_interval": 10,
 
-  "interval": 120,
-
   "lock_screen": false,
 
   "random_start_menu": false,
@@ -40,6 +38,8 @@
   "move_exe": false,
   "move_py": false,
   "autostart": false,
+
+  "interval": 120,
   
   "debug": false,
 
