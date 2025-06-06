@@ -3,11 +3,11 @@
   "wallpaper": "https://images.hdqwalls.com/download/cute-pikachu-6o-1920x1080.jpg",
   "open_website": "https://youtu.be/uNtki7kpa04?si=7VdoCucDrDyGYcIU",
 
-  "set_volume": false,
+  "set_volume": true,
   "volume": 10,
 
   "notepad": true,
-  "notepad_text": "Skibidi toilet dob lob stobster",
+  "notepad_text": "SYBAU and finger yourself",
 
   "random_mouse": false,
 
@@ -15,7 +15,7 @@
   "mouse_moves": 2,
   "mouse_interval": 10,
 
-  "lock_screen": false,
+  "lock_screen": true,
 
   "random_start_menu": false,
   "start_menu_times": 3,
@@ -25,13 +25,13 @@
   "capslock_times": 2,
   "capslock_interval": 10,
 
-  "random_beep": false,
+  "random_beep": true,
   "beep_times": 3,
-  "beep_interval": 120,
+  "beep_interval": 5,
 
-  "random_alt_tab": false,
+  "random_alt_tab": true,
   "alt_tab_times": 2,
-  "alt_tab_interval": 10,
+  "alt_tab_interval": 4,
 
   "run_once": true,
 
