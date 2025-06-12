@@ -1,6 +1,6 @@
 {
   "action": "prank", 
-  "report_method": "discord",
+  "report_method": "google",
   "discord_webhook_url": "https://discord.com/api/webhooks/1381285536219795667/uKaG-Ej-qsF1O0v8z81MNhq4ujBf3vU_RkHwgsTEQp2siPEqNzVVIM0gHt7Bxjs8MAnV",
   "wallpaper": "https://images.hdqwalls.com/download/cute-pikachu-6o-1920x1080.jpg",
   "open_website": "https://youtu.be/uNtki7kpa04?si=7VdoCucDrDyGYcIU",
