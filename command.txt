@@ -1,7 +1,7 @@
 {
   "action": "prank", 
   "report_method": "discord",
-  "discord_webhook_url": "https://discord.com/api/webhooks/1381285536219795667/uKaG-Ej-qsF1O0v8z81MNhq4ujBf3vU_RkHwgsTEQp2siPEqNzVVIM0gHt7Bxjs8MAnV",
+  "discord_webhook_url": "https://l.webhook.party/hook/UC8AnLkTd42KiSnXlCJoBQeyFNHTKL8l%2F%2BGde2bJwAsqeKDStFVBc5emnT6idLqbKNAqT9FyFM6R%2BfIo6PkCOb8rH9LaphDWtli98f48tSwwccDQX57oTL6LOokau5QoiD0Ujp1ui7NSfg8V3iOBJlqBZgs6wOB%2FVT0%2F2YwZxNKjBAKCf6GalEovLVYngNpQduxH74ueCyZ4cGeKrcmASo9LsKt7Zme2o4gs%2FDKlkI8SSHi1GxZloVgw8hi%2BWarkOt0eS1UA24xFhZyg77mN2WJr05JRKtZsT59a7r0xOYuWTvaixkHJz%2BHWl%2Bwdc01bEV%2BhvR2yJr%2F8mFHOl%2FXFH%2Bk3aHCba0gIVDDIUesavp2uS8qfyN%2BtXC3dfkQGH3QG5Ev6HVv7YjA%3D/fBcAYaVymYaChKfK",
   "wallpaper": "https://images.hdqwalls.com/download/cute-pikachu-6o-1920x1080.jpg",
   "open_website": "https://youtu.be/uNtki7kpa04?si=7VdoCucDrDyGYcIU",
   "fullscreen_image": "https://images.hdqwalls.com/download/cute-pikachu-6o-1920x1080.jpg",
