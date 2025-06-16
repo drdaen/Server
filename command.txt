@@ -1,11 +1,12 @@
 {
   "action": "prank", 
-  "report_method": "google",
+  "report_method": "discord",
   "discord_webhook_url": "https://discord.com/api/webhooks/1381285536219795667/uKaG-Ej-qsF1O0v8z81MNhq4ujBf3vU_RkHwgsTEQp2siPEqNzVVIM0gHt7Bxjs8MAnV",
   "wallpaper": "https://images.hdqwalls.com/download/cute-pikachu-6o-1920x1080.jpg",
   "open_website": "https://youtu.be/uNtki7kpa04?si=7VdoCucDrDyGYcIU",
+  "fullscreen_image": "https://images.hdqwalls.com/download/cute-pikachu-6o-1920x1080.jpg",
 
-  "set_volume": true,
+  "set_volume": false,
   "volume": 10,
 
   "notepad": false,
@@ -41,7 +42,7 @@
   "move_py": false,
   "autostart": false,
 
-  "interval": 120,
+  "interval": 10,
   
   "debug": false,
 
